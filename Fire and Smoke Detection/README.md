@@ -1,6 +1,6 @@
 ## Fire and smoke detection with Keras and Deep Learning
 
-NOTEBOOK:  [![Nbviewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/shejz/Fire-and-smoke-detection/blob/main/fire_detection.ipynb)
+NOTEBOOK:  [![Nbviewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/shejz/Disaster-Detection/blob/main/Fire%20and%20Smoke%20Detection/fire_detection.ipynb)
 
 The dataset consisting of two classes:
 - Fire
@@ -15,7 +15,7 @@ To build our smoke and fire detector we utilized two datasets:
 
 **Gautam’s fire dataset with the 8-scenes natural image dataset so that we can classify Fire vs. Non-fire**
 
-![](https://github.com/shejz/Fire-and-smoke-detection/blob/main/8-scenes.jpg)
+![](https://github.com/shejz/Disaster-Detection/blob/main/Fire%20and%20Smoke%20Detection/8-scenes.jpg)
 
 
 The dataset we’ll be using for Non-fire examples is called 8-scenes as it contains 2,688 image examples belonging to eight natural scene categories (all without fire):
@@ -56,13 +56,13 @@ The dataset we’ll be using for Non-fire examples is called 8-scenes as it cont
 
 ### Sample Output
 
-![](https://github.com/shejz/Fire-and-smoke-detection/blob/main/keras_fire_detection_animation.gif)
+![](https://github.com/shejz/Disaster-Detection/blob/main/Fire%20and%20Smoke%20Detection/keras_fire_detection_animation.gif)
 
 
 ### Limitations and drawbacks
 Our results are not perfect, however. Here are a few examples of incorrect classifications:
 
-![](https://github.com/shejz/Fire-and-smoke-detection/blob/main/incorrect%20detection.jpg)
+![](https://github.com/shejz/Disaster-Detection/blob/main/Fire%20and%20Smoke%20Detection/incorrect%20detection.jpg)
 
 The image on the left in particular is troubling — a sunset will cast shades of reds and oranges across the sky, creating an “inferno” like effect. It appears that in those situations our fire detection model will struggle considerably.
 
