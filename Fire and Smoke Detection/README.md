@@ -1,6 +1,6 @@
 ## Fire and smoke detection with Keras and Deep Learning
 
-NOTEBOOK:  [![Nbviewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/shejz/Disaster-Detection/blob/main/Fire%20and%20Smoke%20Detection/fire_detection.ipynb)
+NOTEBOOK:  [![Nbviewer](https://github.com/jupyter/design/blob/main/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/shejz/Disaster-Detection/blob/main/Fire%20and%20Smoke%20Detection/fire_detection.ipynb)
 
 The dataset consisting of two classes:
 - Fire
