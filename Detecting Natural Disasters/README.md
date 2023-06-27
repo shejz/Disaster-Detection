@@ -1,6 +1,6 @@
 ## Detecting Natural Disasters 
 
-DEMO:  [![Nbviewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/shejz/Disaster-Detection/blob/main/Detecting%20Natural%20Disasters/natural_disaster_detection.ipynb)
+DEMO:  [![Nbviewer](https://github.com/jupyter/design/blob/main/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/shejz/Disaster-Detection/blob/main/Detecting%20Natural%20Disasters/natural_disaster_detection.ipynb)
 
 To create the natural disaster detector we fine-tuned VGG16 (pre-trained on ImageNet) on a dataset of 4,428 images belonging to four classes:
 
